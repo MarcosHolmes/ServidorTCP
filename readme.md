@@ -3,7 +3,7 @@
 
 ## Getting Started/ Installing
 
-Hacer pull o clonar el repositorio y en la terminal poner: "nodejs main.js"
+Hacer pull o clonar el repositorio y en la terminal poner: "node server.js"
 
 ### Prerequisites
 
